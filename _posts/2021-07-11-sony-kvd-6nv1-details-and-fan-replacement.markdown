@@ -44,6 +44,6 @@ As a replacement any 24V 40mm fan with a width <12.2mm should suffice. I went wi
 
 The airflow direction of the fan should be pointing outwards. For both the original and replacement fan this would mean orienting them as shown in the photos with the sticker label facing out towards the back.
 
-After finishing this fan replacement the loud noise is significantly reducede and I can now use this TV properly without experiencing any fan grinding noises.
+After finishing this fan replacement the loud noise is significantly reduced and I can now use this TV properly without experiencing any fan grinding noises.
 
 Considering the intended use case of this TV (in a car in the hot summer heat) this fan might not seem as necessary in an indoor setting, but was a fun repair exercise nonetheless.
