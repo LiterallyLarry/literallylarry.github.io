@@ -28,8 +28,8 @@ twitter_username: larryslair
 github_username:  literallylarry
 
 # Build settings
-theme: minimal-mistakes-jekyll
-#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache

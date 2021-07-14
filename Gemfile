@@ -21,7 +21,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
 end
 
-gem "minimal-mistakes-jekyll"
+#gem "minimal-mistakes-jekyll"
 gem 'jekyll-include-cache', group: :jekyll_plugins
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
