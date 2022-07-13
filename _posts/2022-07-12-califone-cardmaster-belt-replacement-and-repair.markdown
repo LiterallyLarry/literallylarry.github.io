@@ -3,7 +3,7 @@ layout: single
 classes: wide
 author_profile: true
 
-title:  "Califone Cardmaster Belt Replacement"
+title:  "Califone Cardmaster Belt Replacement and Repair"
 date:   2021-07-11 21:52:17 -0400
 categories: tech
 ---
@@ -11,7 +11,7 @@ Califone Cardmaster Series 2000
 
 <img src="/omni/img/califone-01.jpg" alt="Califone Cardmaster Series 2000" width="100%" />
 
-This is a text write-up towards my findings on this Califone Cardmaster. [I have a YouTube video up here if you want a more visual look.](https://www.youtube.com/watch?v=h104THzcWqk)
+This is a text write-up documenting my findings when repairing a broken Califone Cardmaster Series 2000. [I have a YouTube video up here if you want a more visual look.](https://www.youtube.com/watch?v=h104THzcWqk)
 
 ## Brief Introduction
 
